@@ -16,6 +16,14 @@ This is for people with **zero technical background** who want a local AI helper
 
 You do **not** need to be a programmer to follow this guide.
 
+## **Optional: Inspiration + General Logic**
+
+This setup guide is meant to be simple. You do not need to understand everything at once, especially the coding side.
+
+If you want the bigger-picture explanation of why this setup matters, how the pieces fit together, and what "architecture" means, read:
+
+[Read the Inspiration + General Logic Guide](./INSPIRATION_AND_LOGIC.md)
+
 ---
 
 ## **Before You Start (2-minute checklist)**
