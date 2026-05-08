@@ -52,7 +52,7 @@ If you want the bigger-picture explanation of why this setup matters, how the pi
 
 1. Open VS Code.
 2. Click the **Extensions** icon (looks like small blocks) on the left.
-3. Search for the tool you want (Claude, Gemini, or GitHub Copilot).
+3. Search for the tool you want (Claude, Gemini, or Codex).
 4. Click **Install**.
 
 Think of extensions like adding a new app feature inside VS Code.
@@ -66,8 +66,8 @@ Each one is only **3 steps**.
 ### **A) Claude (Anthropic) — 3 Steps**
 
 1. **Create or sign in to your Anthropic account.**
-2. **Get your API key** (this is like a private password that lets VS Code talk to Claude).
-3. **Paste that key into the Claude extension settings in VS Code.**
+2. **Open the Claude extension in VS Code** choose the account sign-in/authentication option.
+3. **Follow the on-screen setup steps until VS Code confirms Claude is connected.**
 
 That’s it. Claude is ready to chat inside your editor.
 
@@ -75,21 +75,21 @@ That’s it. Claude is ready to chat inside your editor.
 
 ### **B) Gemini (Google) — 3 Steps**
 
-1. **Create or sign in to your Google account** (and enable Gemini access).
-2. **Create an API key** in Google AI Studio (again, think of this as a private connection password).
-3. **Paste the key into your Gemini extension settings in VS Code.**
+1. **Create or sign in to your Google account**
+2. **Open your Gemini extension in VS Code** choose the sign-in or authentication option.
+3. **Follow the on-screen steps to finish linking Gemini so it can run inside your editor.**
 
 Done. Gemini can now help from inside VS Code.
 
 ---
 
-### **C) Codex / GitHub Copilot — 3 Steps**
+### **C) Codex (OpenAI) — 3 Steps**
 
-1. **Create or sign in to your GitHub account.**
-2. **Install the GitHub Copilot extension** in VS Code.
-3. **Click “Sign in” when prompted** and approve access.
+1. **Create or sign in to your ChatGPT/OpenAI account.**
+2. **Open Codex in VS Code** choose the sign in/authentication option.
+3. **Follow the browser login prompts** until VS Code confirms Codex is connected..
 
-Now Copilot is connected and ready to assist while you type.
+Done. Codex can now help from inside VS Code.
 
 ---
 
@@ -136,11 +136,11 @@ If something is not working:
 
 1. **Restart VS Code.**
 2. **Check you are signed in** to the right account.
-3. **Re-copy your API key** carefully (no extra spaces).
-4. **Open extension settings** and confirm the key is pasted in the correct place.
-5. **Try a simple prompt** like: “Say hello.”
+3. **Try a simple prompt** like: “Say hello.”
+4. **Consult your preffered AI Assitant in the browser** 
 
-If it responds, your setup is working.
+
+If it responds in VS Code, your setup is working.
 
 ---
 
