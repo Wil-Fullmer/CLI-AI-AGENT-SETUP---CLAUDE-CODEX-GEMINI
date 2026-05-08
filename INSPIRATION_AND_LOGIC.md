@@ -45,3 +45,5 @@ AI Model Provider
 ↓
 Your Files / Notes / Project
 ```
+**Ready for your first project?**
+[Read the Project Ideas Guide](./PROJECT_IDEAS.md)
